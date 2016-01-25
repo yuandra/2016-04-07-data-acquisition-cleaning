@@ -1,8 +1,9 @@
+
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/datacarpentry/workshop-template"
-workshop_site   : "http://datacarpentry.github.io/workshop-template"
+workshop_repo   : "https://github.com/yuandra/2016-02-01-data-acquisition-cleaning"
+workshop_site   : "http://yuandra.github.io/2016-02-01-data-acquisition-cleaning"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
@@ -17,8 +18,7 @@ dc_twitter     : "http://twitter.com/datacarpentry"
 #--------------------------------------------------------------------------------
 # Settings for Jekyll - should not need to be modified.
 #--------------------------------------------------------------------------------
-markdown        : kramdown
-kramdown        :
-  entity_output : as_input # &mdash; is output as &mdash;
-  smart_quotes  : [39, 39, 34, 34] # decimal for left/right single/double quotes
+markdown        : redcarpet
+redcarpet       :
+  extensions    : ["tables"]
 exclude         : [tools]
