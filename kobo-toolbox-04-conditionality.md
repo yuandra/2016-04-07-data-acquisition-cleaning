@@ -6,7 +6,7 @@ root: .
 
 ### Conditionality in Kobo Toolbox
 
-Conditionality in Google Forms is implemented using skip logic.
+Conditionality in Kobo Toolbox is implemented using skip logic.
 This means that a question can check the answer of the previous question, and if it fulfill a certain criteria, the question will / or not be shown to the people.
 
 Let's try this out. Let us say that we want the form to be filled by people above 18 year old.
