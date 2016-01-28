@@ -46,9 +46,8 @@ Let's try GREL to switch the separator in the categories from | (pipe sign) into
 
 ### Exercise
 
-- Search the column height for a size in m.
+- Put a text facet in column height
 - change it to milimeters
-- select only the one with the m
 - don't forget to add the "mm" at the end to make it the same format with other
 - use functions such as substring, round, value, toNumber
 - you can add string by using the operator "+"

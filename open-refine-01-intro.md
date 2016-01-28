@@ -52,7 +52,8 @@ See the setup instructions in the [setup page](install.html)
 #### Using DI4C
 
 We will be using a platform called DIT4C during the duration of this workshop.
-Please access the DIT4C website in [http://resbaz.cloud.edu.au](http://resbaz.cloud.edu.au) and follow the instruction from the trainer.
+The share code will be given to you during the training.
+Please access the DIT4C website in [http://resbaz.cloud.edu.au](http://resbaz.cloud.edu.au) and see the setup instructions in the [setup page](install.html)
 
 Once you have open refine setup and installed, let us continue with the training !
 
