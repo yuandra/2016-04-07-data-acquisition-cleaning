@@ -58,7 +58,7 @@ Customise a theme by :
 
 Next: [Conditionality in Google Form](google-forms-04-conditionality.html)
 
-Prev: [Creationg to Google Forms](google-forms-02-creation.html)
+Prev: [Creating basic form on Google Forms](google-forms-02-creation.html)
 
 
 [Main menu](index.html)

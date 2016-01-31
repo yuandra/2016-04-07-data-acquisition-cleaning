@@ -89,7 +89,7 @@ example
 ![](img/google-forms-02-06.png)
 
 
-Next: [Conditionality in Google Form](google-forms-03-theming.html)
+Next: [Theming in Google Form](google-forms-03-theming.html)
 
 Prev: [Introduction to Google Forms](google-forms-01-intro.html)
 
