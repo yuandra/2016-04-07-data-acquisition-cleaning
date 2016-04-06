@@ -18,9 +18,9 @@ You can choose wether or not the people you share can also edit the project or o
 
 Share your project and share it to the etherpad
 
-Next: [Data validation using Kobo Toolbox](kobo-toolbox-06-validation.html)
+Next: [Creating Multi Language form in Kobo Toolbox](kobo-toolbox-07-multilanguage.html)
 
-Prev: [Conditionality in Kobo Toolbox](kobo-toolbox-04-conditionality.html)
+Prev: [Distributing Kobo Toolbox](kobo-toolbox-05-distribution.html)
 
 
 [Main menu](index.html)

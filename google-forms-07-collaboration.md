@@ -14,12 +14,8 @@ Google forms allow you to collaborate with each other
 
 How to start collaboration
 
-- click on file
+- click on ... section in the top right of the form
 - click on add collaborators
-
-![](img/google-forms-06-01.png)
-
-![](img/google-forms-06-02.png)
 
 There are two ways to add collaborators 
 
@@ -32,14 +28,22 @@ However you will need to set up permission for the link first by clicking "chang
 
 If you put the email address of people you want to collaborate with, google forms will auto add them to your form
 
-###Exercise
+### Exercise
 
 - set your sharing permission to public
-- copy and paste the link to the etherpad
+- in pairs, send your form collaboration request to each other
+- add a question to the each other's form
 
-Next: [Validation in Google Form](google-forms-07-validation.html)
+### Prefilled form
 
-Prev: [Distributing Google Forms](google-forms-05-distributing.html)
+Besides sharing the form as a blank form, you can create a pre-filled form that already has some of its question filled
+
+- go to ... section in the top right position of the form
+- get prefilled form link
+
+Next: [Extending Google Form](google-forms-07-validation.html)
+
+Prev: [Distributing Google Forms](google-forms-06-distributing.html)
 
 
 [Main menu](index.html)

@@ -113,9 +113,9 @@ The other options that Kobo Toolbox has is groupings, that means you group quest
 
 To do that, select the question you want to be grouped, and select group question in the form design.
 
-Next: [Conditionality in Kobo Toolbox](kobo-toolbox-04-conditionality.html)
+Next: [Collaboration with Kobo Toolbox](kobo-toolbox-06-collaboration.html)
 
-Prev: [Basic form creation in Kobo Toolbox](kobo-toolbox-02-creation.html)
+Prev: [Conditionality in Kobo Toolbox](kobo-toolbox-04-conditionality.html)
 
 
 [Main menu](index.html)

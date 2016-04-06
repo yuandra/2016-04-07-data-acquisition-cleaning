@@ -44,50 +44,40 @@ Google forms has many question types
 - Date: Respondents use a calendar picker to enter a date
 - Time: Respondents select a time (either a time of day or a duration of time)
 
-First, let us change the form header
+Let's make a form !
 
-- click on the form title area
-- change it to "What do you like to drink ?"
+For example, we are a researcher that want to research about people preference. We want to do a study on the perceptions people have towards individuals wearing glasses  vs contact lenses based on first impressions and also the decision factors for choosing to wear either.
 
-Second, let's change the question to ask for our age
+Make a new title for the form :
 
-- click on the question that Google Form has put inside the form
-- change the title to be "what is your age ?"
-- change the question type to be "text"
+- click on add Title and Description
+- change it to "Glasses vs Contact Lens"
 
-It should like this :
+Adding a question :
 
-![](img/google-forms-02-03.png)
+- click on add question in the right
+- set the type of the question by clicking on question type
+- add the question details like title and hint
 
 ### Viewing the form
 
 After you've edit the question, click on the view live form in the top right
 
-Your google form will be shown :
-
-![](img/google-forms-02-04.png)
+Your google form will be shown 
 
 Try filling it out !
 
 After you fill it, go back to your form editing page, and click on view responses.
 
 You will see the data that you've just put in. Now you see that it is very easy for you to get the data out from google forms.
-
-![](img/google-forms-02-05.png)
-
 Congratulations ! You have created your first google form !
 
 ### Exercise
 
 Add more questions to the form !
 
-- Add a multiple choice asking what kind of drink do you like
-- Ada a scale and grid questions with statements
-
-example
-
-![](img/google-forms-02-06.png)
-
+- Add multiple questions to determine between contact lens and glasses
+- Try multiple questions type such as scale and grid
 
 Next: [Theming in Google Form](google-forms-03-theming.html)
 

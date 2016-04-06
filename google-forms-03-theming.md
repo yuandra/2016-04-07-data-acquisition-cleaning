@@ -8,13 +8,7 @@ root: .
 
 You can add an image to google form as follows :
 
-- Click on the add item
-- Choose layout
-- And choose images
-
-ex :
-
-![](img/google-forms-03-01.png)
+- Click on the add image !
 
 ### Exercise
 
@@ -24,23 +18,13 @@ Add some videos to the google form
 
 One way google form provide to layout the question is by seperating it via pages
 
-- Click on the add item
-- Choose layout
-- Click on page break
+- Click on the add section to add a new section !
 
 Don't forget to add a page header so that people won't get confused
 
-- Click on the add item
-- Choose layout
-- Click on section header
-- Type the title of section header
-
 ### Exercise
 
-Split the google form into 3 pages, with :
-- page 1 is the question
-- page 2 is the image
-- page 3 is the video
+Split the google form into several section :
 
 ### Change the Google Form theme
 
@@ -55,8 +39,7 @@ Customise a theme by :
 - Changing the header image into your preferred image
 - Changing the background colour to another colour
 
-
-Next: [Conditionality in Google Form](google-forms-04-conditionality.html)
+Next: [Validation in Google Form](google-forms-04-validation.html)
 
 Prev: [Creating basic form on Google Forms](google-forms-02-creation.html)
 

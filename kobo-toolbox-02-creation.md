@@ -71,7 +71,7 @@ Add more questions to the form !
 
 ![](img/kobo-toolbox-02-06.png)
 
-Next: [Distributing form using Kobo Toolbox](kobo-toolbox-03-distribution.html)
+Next: [Validating form using Kobo Toolbox](kobo-toolbox-03-validation.html)
 
 Prev: [Kobo Toolbox Overview](kobo-toolbox-01-intro.html)
 

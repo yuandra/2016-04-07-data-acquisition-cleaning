@@ -38,15 +38,15 @@ see more on [google script documentation](https://developers.google.com/apps-scr
 
 ### Using a new version of Google Form
 
-Google form currently trying out new version that is still in beta.
-However, you can also opt-in and try the beta
+Google form currently trying out new version that is still in beta. We are currently using the new version of Google Form
 
-- access the google form beta here [
+However, you can also opt-in and try the beta
+- you can opt out by clicking the run button in the lower left corner
+- you can also opt in by accessing the google form beta here [
 https://support.google.com/docs/answer/6281888
 ](
 https://support.google.com/docs/answer/6281888
 )
-- you can opt out by clicking the run button in the lower left corner
 
 
 ### What's next
@@ -55,7 +55,7 @@ You have completed the web survey using Google Form lessons !
 
 After this you can try delving more on Google form by going through the app scripts or by delving more in the add on store.
 
-Prev: [Validation in Google Forms](google-forms-07-validation.html)
+Prev: [Collaboration in Google Forms](google-forms-07-collaboration.html)
 
 
 [Main menu](index.html)

@@ -2,8 +2,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/yuandra/2016-02-01-data-acquisition-cleaning"
-workshop_site   : "http://yuandra.github.io/2016-02-01-data-acquisition-cleaning"
+workshop_repo   : "https://github.com/yuandra/2016-04-07-data-acquisition-cleaning"
+workshop_site   : "http://yuandra.github.io/2016-04-07-data-acquisition-cleaning"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------

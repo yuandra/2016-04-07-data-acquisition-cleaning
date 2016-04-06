@@ -53,7 +53,6 @@ If you want to learn more about data acquisition is that you can learn how to ge
 - APIs from company such as Google and others
 - Social media data such as Facebook and Twitter.
 
-Prev: [Validation in Kobo Toolbox](kobo-toolbox-06-validation.html)
-
+Prev: [Collaboration with Kobo Toolbox](kobo-toolbox-06-collaboration.html)
 
 [Main menu](index.html)
