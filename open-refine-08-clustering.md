@@ -15,10 +15,6 @@ To access clustering :
 - select the algorithm you want to use
 - open refine will automatically auto detect the similarities based on the algorithm
 
-### Exercise
-
-- try clustering on the categories column that the multi valued cell has been splitted into several rows
-
 Next: [Transposing cells in Open Refine](open-refine-09-transpose.html)
 
 Prev: [Splitting and joining multi-valued cells in Open Refine](open-refine-07-split.html)

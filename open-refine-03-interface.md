@@ -67,7 +67,7 @@ You will have many format to choose, including csv, tsv, xls, and many more opti
 - export as excel
 - create a new project from the excel
 - apply the extracted json file
-s
+
 Next: [Using Facet for selection in Open Refine](open-refine-04-faceting.html)
 
 Prev: [Open Refine Project Creation](open-refine-02-creation.html)
