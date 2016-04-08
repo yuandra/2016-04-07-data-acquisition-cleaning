@@ -29,6 +29,8 @@ Following the instructor, try the various facet that available in Open Refine
 
 For facet by text, it will give you a unique list of every instance of the data inside a column. You can also use facet to check for blanks
 
+### Using star and flag to select data
+
 You can also mark those rows by clicking on the star / flag in the left side of the rows. You can mark all your selection by clicking on the arrow beside the all column, and also select edit rows, star/flag rows. You can also use the flag/star facet to select them.
 
 ### Exercise
