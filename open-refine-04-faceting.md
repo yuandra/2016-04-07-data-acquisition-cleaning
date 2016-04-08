@@ -23,33 +23,17 @@ and otherfacet such as text length facet and many more
 
 We will try some of the facet, namely text, numbers, star, and flag
 
-For facet by text, it will give you a unique list of every instance of the data inside a column.
+### Exercise
 
-- click on the arrow beside the column object title
-- click on facet by text
-- you will that there are 94 choices.
+Following the instructor, try the various facet that available in Open Refine
 
-We have 99 rows of data. Where are the other 5 ?
-
-- click on the count in the facet window to sort it by count
-- you will see that there are several items that have the same title
-- click on the title
-- you will that they indeed have the same title, but different description
-
-You can also use facet to check for blanks
-
-- click on the arrow beside the column height
-- click on facet by text
-- sort it by count
-- you will see that there are 72 data that is blank
+For facet by text, it will give you a unique list of every instance of the data inside a column. You can also use facet to check for blanks
 
 You can also mark those rows by clicking on the star / flag in the left side of the rows. You can mark all your selection by clicking on the arrow beside the all column, and also select edit rows, star/flag rows. You can also use the flag/star facet to select them.
 
 ### Exercise
 
-Select those that has height and width (not blank)
-Hint : use star and flag to help you mark your selection
-
+Following the instructor, use the star and flag to make a more detailed selection
 
 Next: [Basic data cleaning operation in Open Refine](open-refine-05-basic.html)
 

@@ -8,16 +8,12 @@ root: .
 
 Besides facet, Open Refine also provides a filter functionality in which you can filter text.
 
-- click on the arrow beside the description 
+- click on the arrow beside the column name 
 - select text filter
-- type "USA" to select all the rows that containts the text "USA" in the description column
 
 ### Exercise
 
-You can also use Regular Expression, a powerful language define patterns of text.
-
-- Use regular expression to find rows that has the text "RESBAZ" , "R.E.S.B.A.Z", and "R E S B A Z" in the description column"
-- remove those text from the cell
+You can also use Regular Expression which we use during the data validation in Google Form for us to have better fine grained controls in searching the data
 
 Hint : use online tools like regexr.com to test your regular expression.
 

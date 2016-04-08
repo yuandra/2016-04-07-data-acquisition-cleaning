@@ -6,8 +6,6 @@ root: .
 
 ### The Open Refine Interface
 
-![](img/open-refine-04-01.png)
-
 You will see the Open Refine main interface once you load the project. This would be your main window when you work with Open Refine.
 
 There are 3 areas that you should put your main attention to :
@@ -46,11 +44,8 @@ to make permanent, see the sort text on top right, click on it and set make perm
 
 ### Exercise
 
-- hide the permanent link column
-- remove the . (dot sign) from description column name
-- reorder so that marks column is put on the back 
-- change the data type of record id to be number
-- make the sort permanent
+- try to move & hide the data column
+- try to sort a column and make it permanent !
 
 ### The history view
 
@@ -72,7 +67,7 @@ You will have many format to choose, including csv, tsv, xls, and many more opti
 - export as excel
 - create a new project from the excel
 - apply the extracted json file
-
+s
 Next: [Using Facet for selection in Open Refine](open-refine-04-faceting.html)
 
 Prev: [Open Refine Project Creation](open-refine-02-creation.html)

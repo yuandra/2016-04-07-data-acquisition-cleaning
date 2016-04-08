@@ -10,10 +10,6 @@ Open Refine has the function of splitting multi valued cells
 
 You can access the function by going to the cell that has the multi valued cell and do the edit cell - split multi valued cell operation
 
-### Exercise
-
-- split the category column based on its separator !
-
 ### Records vs Rows
 
 You will see that Open Refine has split the multi valued cells into multiple rows, however that does not mean that it creates more rows in reality.
@@ -27,10 +23,6 @@ To join a multi valued cells back to one row, you can select the multi valued ce
 ### Splitting into new column
 
 We can also split a multi valued cell into its own column by the way of edit column - split into new column
-
-### Exercise
-
-- split the provenance (production) by the ";" (semi colon) to several column
 
 Next: [Clustering cells in Open Refine](open-refine-08-clustering.html)
 

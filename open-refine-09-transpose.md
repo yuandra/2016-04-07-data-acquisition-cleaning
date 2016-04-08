@@ -9,12 +9,6 @@ root: .
 Open Refine supports transposing cells into column and vice versa.
 You can do this by selecting the arrow beside the column you want to start transposing operation and select transpose
 
-### Exercise
-
-- try transposing the cells accross column from height to weight to 2 column
-- first column is the type with contains the measurement type (height, weight, etc)
-- second column is the measurement itself
-
 ### What's next
 
 Congratulations ! You have reached the end of the Introduction to Open Refine lessons !

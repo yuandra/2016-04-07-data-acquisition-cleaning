@@ -16,17 +16,15 @@ Those operation such as :
 - make lowercase
 - make titlecase
 
-We want to make sure that the height, width, depth, diameter, and height does not have any whitespace in the front or in the back
-
-- click on the arrow bar beside the column name (height/width/depth/diameter/height)
+This operation is done per column :
+- click on the arrow bar beside the column name
 - choose edit cells
 - choose common transform
 - choose trim leading and trailing whitespace
 - repeat on the other columns
 
 ### Exercise
-
-- change the categories column to be all uppercase
+- try to do some basic data cleaning operations on the table columns
 
 ### Google Refine Expression Language
 
@@ -34,23 +32,9 @@ You can also do more powerful transform by using GREL. GREL has almost the same 
 
 You can check the documentation of GREL in here : [https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language)
 
-Let's try GREL to switch the separator in the categories from | (pipe sign) into - (minus sign)
-
-- click on the arrow bar beside the categories column
-- choose edit cells
-- choose transform
-- you will be shown the GREL interface, the value in the column you were working on, and the value once you've typed a GREL function
-- type replace(value,"|","-")
-- set the on error set as blank
-- apply the function
-
 ### Exercise
 
-- Put a text facet in column height
-- change it to milimeters
-- don't forget to add the "mm" at the end to make it the same format with other
-- use functions such as substring, round, value, toNumber
-- you can add string by using the operator "+"
+Let's try some GREL ! Follow the instructor example
 
 Next: [Filtering in Open Refine](open-refine-06-filtering.html)
 
